@@ -1,5 +1,7 @@
 # Equal Experts Calculator Test
 
+<img src="https://github.com/Steveeeie/equal-experts-calculator/blob/main/ee-calculator-demo.gif?raw=true" alt="demo" />
+
 ---
 
 ### Installation
